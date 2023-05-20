@@ -1,5 +1,7 @@
 # Repositório Individual **API**
 Repositório individual para publicação dos códigos da disciplina de API da Residência do Serratec
+
+
 *Autor: **James Maclean***
 
 ### Estrutura do repositório
