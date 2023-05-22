@@ -27,3 +27,17 @@ Repositório individual para publicação dos códigos da disciplina de API da R
  - [x] Listar produtos cadastrados **contendo o nome**;
 
 Para mais informações sobre os métodos disponíveis rode a aplicação e acesse: */spring-clothes/swagger-ui/index.html*
+
+## 2. **Residencia Evil**
+
+ desenvolvido com a finalidade de ser um controlador de jogadores para o game Residência Evil, apresentando a lista de players cadastrados, com seus respectivos **campos**;
+ - [x] Buscar todos os players
+ - [x] Buscar player pelo **id**;
+ - [x] Atualizar determinado player por **id**;
+ - [x] Delete lógico por **id**;
+ - [x] Listar players ordenando pelo **level mais alto**;
+ - [x] Listar total de players ativos **contendo o nome**;
+ - [x] Listar total de players cadastrados
+ - [x] Listar classes mais jogadas
+
+Para mais informações sobre os métodos disponíveis rode a aplicação e acesse: */residencia-evil/swagger-ui/index.html*
