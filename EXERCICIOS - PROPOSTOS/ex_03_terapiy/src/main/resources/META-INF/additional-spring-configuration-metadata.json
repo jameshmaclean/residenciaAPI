@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "terapiy.swagger.dev-url",
+  "type": "java.lang.String",
+  "description": "A description for 'terapiy.swagger.dev-url'"
+}]}
