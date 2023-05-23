@@ -41,3 +41,21 @@ Para mais informações sobre os métodos disponíveis rode a aplicação e aces
  - [x] Listar classes mais jogadas
 
 Para mais informações sobre os métodos disponíveis rode a aplicação e acesse: */residencia-evil/swagger-ui/index.html*
+
+## 3. **TerAPIy**
+O projeto **"TerAPIy"** é uma API desenvolvida como parte da disciplina de API no curso de **Residência de Software do SERRATEC**. Seu objetivo é fornecer uma plataforma online que funcione como um catálogo de profissionais especializados na área de saúde mental.
+
+A API permite que os usuários pesquisem e encontrem profissionais de saúde mental com base em critérios específicos como especialização, oferta de preços sociais e convênio médico. Além disso, os usuários podem visualizar informações detalhadas sobre cada profissional.
+
+TerAPIy visa facilitar o acesso dos usuários a serviços de qualidade na área de saúde mental, promovendo o cuidado com a saúde emocional.
+
+Esse projeto contribui para a formação dos alunos da Residência de Software, permitindo o aprendizado e aplicação de conceitos avançados de desenvolvimento de APIs, além de oferecer uma solução concreta para a área de saúde mental, que é de extrema importância para a sociedade atualmente.
+
+ - [x] Buscar todos os profissionais cadastrados
+ - [x] Buscar profissional pelo **id**;
+ - [x] Atualizar determinado profissional por **id**;
+ - [x] Delete lógico por **id**;
+ - [x] Listar profissionais que oferecem **preço social**;
+ - [x] Listar profissionais de determinada área **contendo o nome**;
+ - [x] Incluir um profissional no sistema
+ - [x] Listar profissionais que ofereçam atendimento por **convênios**
