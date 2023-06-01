@@ -10,6 +10,7 @@ Repositório individual para publicação dos códigos da disciplina de API da R
 
  1. **Exercicio Teste** - código feito para conhecer e familiarizar com a estrutura do Spring Tools bem como a estrutura do JavaSpring;
  2.  **Exsql** - código desenvolvido com base no conteúdo do slide 3 da disciplina, conectando ao banco e realizando operações ***CRUD*** simples;
+ 3.  Mapeamento das entidades da database dvdrental **TODO: verificar as relações**
 
 
 # **- Exercicios - Propostos**
